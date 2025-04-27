@@ -1,0 +1,1 @@
+# resumo_microsoft_copilot
