@@ -11,7 +11,7 @@
 
 ## Configure:
   - Tópicos: Defina os principais temas e/ou fluxos de conversa que ele vai abordar;
-  - Fontes de conhecimento: Conecte documentos, sites ou basse de dados para que ele busque respostas automaticamente;
+  - Fontes de conhecimento: Conecte documentos, sites ou base de dados para que ele busque respostas automaticamente;
   - Defina como o copiloto inicia, responde e finaliza interações.
 
 ## Teste:
