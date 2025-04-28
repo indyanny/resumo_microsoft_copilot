@@ -4,10 +4,10 @@
   - Acesse [Microsoft Copilot Studio](https://copilotstudio.microsoft.com/).
 
 ## Crie um novo copiloto:
-  - Clique em "Criar Copilot" ou escolha um modelo pré-definido;
+  - Clique em "Criar Copilot", escolha um modelo pré-definido ou selecione "Novo Agente";
   - Escolha um nome para o seu copiloto;
   - Descreva o objetivo dele;
-  - (Opcional) Troque ou adicione um ícone ao copilot criado.
+  - (Opcional) Troque ou adicione um ícone ao copiloto criado.
 
 ## Configure:
   - Tópicos: Defina os principais temas e/ou fluxos de conversa que ele vai abordar;
