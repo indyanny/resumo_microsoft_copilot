@@ -6,8 +6,8 @@
 ## Crie um novo copiloto:
   - Clique em "Criar Copilot" ou escolha um modelo pré-definido;
   - Escolha um nome para o seu copiloto;
-  - Descreva o objetivo dele;.
-  - (Opcional) Troque o ícone do copilot.
+  - Descreva o objetivo dele;
+  - (Opcional) Troque ou adicione um ícone ao copilot criado.
 
 ## Configure:
   - Tópicos: Defina os principais temas e/ou fluxos de conversa que ele vai abordar;
